@@ -1,0 +1,9 @@
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\obj\Debug\MockUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\bin\Debug\MockUnitTest.dll
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\bin\Debug\MockUnitTest.pdb
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\bin\Debug\Moq.dll
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\bin\Debug\UnitTestExample.dll
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\bin\Debug\UnitTestExample.pdb
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\bin\Debug\Moq.xml
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\obj\Debug\MockUnitTest.dll
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\MockUnitTest\obj\Debug\MockUnitTest.pdb

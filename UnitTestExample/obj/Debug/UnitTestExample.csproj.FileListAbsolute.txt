@@ -1,0 +1,5 @@
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.dll
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.pdb
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.dll
+C:\Users\xurxo\Desktop\laboratorio\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.pdb
